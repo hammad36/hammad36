@@ -19,8 +19,7 @@ I don't just write code; I engineer solutions. Every line I write is a building 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 ### Connect with Me :
-<img width="200" align="right" src="good-times.svg">
-<a href="https://www.linkedin.com/in/hammad8/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Hammad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<img width="200" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"><a href="https://www.linkedin.com/in/hammad8/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Hammad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/hammad60/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Hammad-385490?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://twitter.com/thereal_hammad" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Hammad-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
