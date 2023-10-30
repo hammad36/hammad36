@@ -16,14 +16,12 @@
 - 🌌 Beyond the Code:
 I don't just write code; I engineer solutions. Every line I write is a building block in the bridge to tomorrow's digital world. I thrive on challenging the status quo and pushing the limits of what's possible.
 
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 ### Connect with Me :
 <a href="https://www.linkedin.com/in/hammad8/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Hammad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/thereal_hammad" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Hammad-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://www.facebook.com/hammad60/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Hammad-385490?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -45,6 +43,7 @@ I don't just write code; I engineer solutions. Every line I write is a building 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 ![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000)&nbsp;
 
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 <!-- Footer -->
