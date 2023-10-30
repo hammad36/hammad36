@@ -21,11 +21,11 @@ I don't just write code; I engineer solutions. Every line I write is a building 
 ### Connect with Me :
 <a href="https://www.facebook.com/hammad60/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Hammad-385490?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://twitter.com/thereal_hammad" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Hammad-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hammad8/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Hammad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 ### 🛠 &nbsp;Tech Stack
-<img width="180" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"><a href="https://www.linkedin.com/in/hammad8/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Hammad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
