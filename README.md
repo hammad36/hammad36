@@ -34,7 +34,6 @@
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dot-net&logoColor=512BD4)&nbsp;
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)&nbsp;
 ![LINQ](https://img.shields.io/badge/-LINQ-512BD4?style=flat)&nbsp;
-
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
