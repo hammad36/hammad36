@@ -50,7 +50,6 @@ I don't just write code; I engineer solutions. Every line I write is a building 
 <!-- Footer -->
 <div align="center">
 <br />
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
   
 ![Visitor Count](https://profile-counter.glitch.me/hammad36/count.svg)
 
