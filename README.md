@@ -171,36 +171,6 @@ const mohammed: SDET = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table width="96%" border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hammad36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=a8b2d8&border_radius=10"/>
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad36&theme=tokyonight&hide_border=true&background=0d1117&ring=7DF9FF&fire=FF6C37&currStreakLabel=7DF9FF&border_radius=10"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad36&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7DF9FF&text_color=a8b2d8&border_radius=10&langs_count=6"/>
-    </td>
-    <td align="center">
-      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=hammad36&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=hammad36&bg_color=0d1117&color=7DF9FF&line=302b63&point=7DF9FF&area=true&hide_border=true&border_radius=10"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧪 What I Test
 
