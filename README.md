@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohammed%20Hammad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=🔍%20Software%20QA%20Engineer%20%7C%20SDET&descAlignY=53&descSize=24&descColor=7DF9FF" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=7DF9FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=💥+Breaking+things+on+purpose+—+that's+my+job;🤖+SDET+%7C+Playwright+·+Selenium+·+TypeScript;🔌+RESTful+API+Testing+%7C+Postman+·+Swagger;📱+Mobile+QA+%7C+Android+·+iOS+·+SDK+Integrations;💳+Fintech+QA+%7C+Payments+·+Wallets+·+Apple+Pay;✅+Quality+is+not+an+act%2C+it+is+a+habit" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hammad8/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
