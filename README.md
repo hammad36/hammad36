@@ -127,7 +127,6 @@ const mohammed: SDET = {
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
       <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
       <img src="https://img.shields.io/badge/SDK Integrations-7DF9FF?style=flat-square&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Apple Pay-000000?style=flat-square&logo=apple-pay&logoColor=white"/>
     </td>
   </tr>
   <tr>
